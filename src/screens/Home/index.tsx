@@ -35,7 +35,6 @@ export function Home() {
       .catch((err) => {
         console.error("ops! ocorreu um erro" + err);
       });
-    console.log(data);
   }
 
   return (
