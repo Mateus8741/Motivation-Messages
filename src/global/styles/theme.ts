@@ -1,8 +1,9 @@
 export default {
     colors: {
-      background: '#fff',
-      text: '#050617',
-      light_text: 'rgba(23, 23, 27, 0.6)',
+      background_W: '#fff',
+      background_D: '#050617',
+      light_text_D: 'rgba(23, 23, 27, 0.6)',
+      light_text_W: '#FFF',
       detail: '#747476',
   
       backgroundCard: {
