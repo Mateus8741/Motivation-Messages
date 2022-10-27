@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "pokedex",
-    "slug": "pokedex",
+    "name": "Motivation Massage",
+    "slug": "Motivation_Massage",
     "version": "1.0.0",
     "assetBundlePatterns": [
       "**/*"
