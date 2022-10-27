@@ -9,6 +9,7 @@ import {
   Message,
   ContainerId,
   ScrollContainer,
+  Info,
 } from "./styles";
 import { StatusBar, RefreshControl } from "react-native";
 
@@ -51,6 +52,7 @@ export function Home() {
           </ContainerId>
           <Message>{data?.advice}</Message>
         </ContainerMessage>
+        <Info>Para mais menssagens, arraste para baixo ⬇</Info>
       </ScrollContainer>
     </Background>
   );

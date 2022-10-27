@@ -43,7 +43,16 @@ export const IdMessage = styled.Text`
 
 export const Message = styled.Text`
   color: ${({ theme }) => theme.colors.backgroundCard.eletric};
-  font-size: 20px;
+  font-size: 18px;
   padding-left: 20px;
   padding-right: 20px;
+  font-weight: bold;
+`;
+
+export const Info = styled.Text`
+  color: ${({ theme }) => theme.colors.light_text_W};
+  font-size: 14px;
+  font-weight: bold;
+  text-align: center;
+  margin-top: 16px;
 `;
