@@ -52,7 +52,7 @@ export function Home() {
           </ContainerId>
           <Message>{data?.advice}</Message>
         </ContainerMessage>
-        <Info>Para mais menssagens, arraste para baixo ⬇</Info>
+        <Info>For more messages, drag down ⬇</Info>
       </ScrollContainer>
     </Background>
   );
